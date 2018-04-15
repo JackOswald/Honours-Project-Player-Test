@@ -7,26 +7,117 @@ Direct3D:
     VRAM:     3072 MB
     Driver:   23.21.13.8813
 Begin MonoManager ReloadAssembly
-Platform assembly: E:\Jack\Documents\Uni Work\4th Year\Honours Project\NetworkLatencyCompensation\Build_Data\Managed\UnityEngine.dll (this message is harmless)
-Loading E:\Jack\Documents\Uni Work\4th Year\Honours Project\NetworkLatencyCompensation\Build_Data\Managed\UnityEngine.dll into Unity Child Domain
-Platform assembly: E:\Jack\Documents\Uni Work\4th Year\Honours Project\NetworkLatencyCompensation\Build_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
-Loading E:\Jack\Documents\Uni Work\4th Year\Honours Project\NetworkLatencyCompensation\Build_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
-Platform assembly: E:\Jack\Documents\Uni Work\4th Year\Honours Project\NetworkLatencyCompensation\Build_Data\Managed\Assembly-CSharp.dll (this message is harmless)
-Loading E:\Jack\Documents\Uni Work\4th Year\Honours Project\NetworkLatencyCompensation\Build_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
-Platform assembly: E:\Jack\Documents\Uni Work\4th Year\Honours Project\NetworkLatencyCompensation\Build_Data\Managed\UnityEngine.UI.dll (this message is harmless)
-Loading E:\Jack\Documents\Uni Work\4th Year\Honours Project\NetworkLatencyCompensation\Build_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
-Platform assembly: E:\Jack\Documents\Uni Work\4th Year\Honours Project\NetworkLatencyCompensation\Build_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
-Loading E:\Jack\Documents\Uni Work\4th Year\Honours Project\NetworkLatencyCompensation\Build_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
-Platform assembly: E:\Jack\Documents\Uni Work\4th Year\Honours Project\NetworkLatencyCompensation\Build_Data\Managed\TextMeshPro-5.6-1.0.56-Runtime.dll (this message is harmless)
-Loading E:\Jack\Documents\Uni Work\4th Year\Honours Project\NetworkLatencyCompensation\Build_Data\Managed\TextMeshPro-5.6-1.0.56-Runtime.dll into Unity Child Domain
+Platform assembly: E:\Jack\Documents\Uni Work\4th Year\Honours Project\NetworkLatencyCompensation\Honours-Project-Player-Test\Build_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading E:\Jack\Documents\Uni Work\4th Year\Honours Project\NetworkLatencyCompensation\Honours-Project-Player-Test\Build_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: E:\Jack\Documents\Uni Work\4th Year\Honours Project\NetworkLatencyCompensation\Honours-Project-Player-Test\Build_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading E:\Jack\Documents\Uni Work\4th Year\Honours Project\NetworkLatencyCompensation\Honours-Project-Player-Test\Build_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: E:\Jack\Documents\Uni Work\4th Year\Honours Project\NetworkLatencyCompensation\Honours-Project-Player-Test\Build_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading E:\Jack\Documents\Uni Work\4th Year\Honours Project\NetworkLatencyCompensation\Honours-Project-Player-Test\Build_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: E:\Jack\Documents\Uni Work\4th Year\Honours Project\NetworkLatencyCompensation\Honours-Project-Player-Test\Build_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading E:\Jack\Documents\Uni Work\4th Year\Honours Project\NetworkLatencyCompensation\Honours-Project-Player-Test\Build_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: E:\Jack\Documents\Uni Work\4th Year\Honours Project\NetworkLatencyCompensation\Honours-Project-Player-Test\Build_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading E:\Jack\Documents\Uni Work\4th Year\Honours Project\NetworkLatencyCompensation\Honours-Project-Player-Test\Build_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: E:\Jack\Documents\Uni Work\4th Year\Honours Project\NetworkLatencyCompensation\Honours-Project-Player-Test\Build_Data\Managed\TextMeshPro-5.6-1.0.56-Runtime.dll (this message is harmless)
+Loading E:\Jack\Documents\Uni Work\4th Year\Honours Project\NetworkLatencyCompensation\Honours-Project-Player-Test\Build_Data\Managed\TextMeshPro-5.6-1.0.56-Runtime.dll into Unity Child Domain
 - Completed reload, in  0.020 seconds
-Platform assembly: E:\Jack\Documents\Uni Work\4th Year\Honours Project\NetworkLatencyCompensation\Build_Data\Managed\System.Core.dll (this message is harmless)
-Platform assembly: E:\Jack\Documents\Uni Work\4th Year\Honours Project\NetworkLatencyCompensation\Build_Data\Managed\System.dll (this message is harmless)
+Platform assembly: E:\Jack\Documents\Uni Work\4th Year\Honours Project\NetworkLatencyCompensation\Honours-Project-Player-Test\Build_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: E:\Jack\Documents\Uni Work\4th Year\Honours Project\NetworkLatencyCompensation\Honours-Project-Player-Test\Build_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 3840x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+Initialize engine version: 5.6.3p2 (b3d7a6428558)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 970 (ID=0x13c2)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+    Driver:   23.21.13.8813
+Begin MonoManager ReloadAssembly
+Platform assembly: E:\Jack\Documents\Uni Work\4th Year\Honours Project\NetworkLatencyCompensation\Honours-Project-Player-Test\Build_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading E:\Jack\Documents\Uni Work\4th Year\Honours Project\NetworkLatencyCompensation\Honours-Project-Player-Test\Build_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: E:\Jack\Documents\Uni Work\4th Year\Honours Project\NetworkLatencyCompensation\Honours-Project-Player-Test\Build_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading E:\Jack\Documents\Uni Work\4th Year\Honours Project\NetworkLatencyCompensation\Honours-Project-Player-Test\Build_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: E:\Jack\Documents\Uni Work\4th Year\Honours Project\NetworkLatencyCompensation\Honours-Project-Player-Test\Build_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading E:\Jack\Documents\Uni Work\4th Year\Honours Project\NetworkLatencyCompensation\Honours-Project-Player-Test\Build_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: E:\Jack\Documents\Uni Work\4th Year\Honours Project\NetworkLatencyCompensation\Honours-Project-Player-Test\Build_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading E:\Jack\Documents\Uni Work\4th Year\Honours Project\NetworkLatencyCompensation\Honours-Project-Player-Test\Build_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: E:\Jack\Documents\Uni Work\4th Year\Honours Project\NetworkLatencyCompensation\Honours-Project-Player-Test\Build_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading E:\Jack\Documents\Uni Work\4th Year\Honours Project\NetworkLatencyCompensation\Honours-Project-Player-Test\Build_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: E:\Jack\Documents\Uni Work\4th Year\Honours Project\NetworkLatencyCompensation\Honours-Project-Player-Test\Build_Data\Managed\TextMeshPro-5.6-1.0.56-Runtime.dll (this message is harmless)
+Loading E:\Jack\Documents\Uni Work\4th Year\Honours Project\NetworkLatencyCompensation\Honours-Project-Player-Test\Build_Data\Managed\TextMeshPro-5.6-1.0.56-Runtime.dll into Unity Child Domain
+- Completed reload, in  0.018 seconds
+Platform assembly: E:\Jack\Documents\Uni Work\4th Year\Honours Project\NetworkLatencyCompensation\Honours-Project-Player-Test\Build_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: E:\Jack\Documents\Uni Work\4th Year\Honours Project\NetworkLatencyCompensation\Honours-Project-Player-Test\Build_Data\Managed\System.dll (this message is harmless)
 desktop: 1920x1080 60Hz; virtual: 3840x1080 at 0,0
 <RI> Initializing input.
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 1.016393 ms
+UnloadTime: 1.164727 ms
 Setting up 2 worker threads for Enlighten.
-  Thread -> id: 20d0 -> priority: 1 
-  Thread -> id: 2d34 -> priority: 1 
+  Thread -> id: 4450 -> priority: 1 
+  Thread -> id: 4524 -> priority: 1 
+Initialize engine version: 5.6.3p2 (b3d7a6428558)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 970 (ID=0x13c2)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+    Driver:   23.21.13.8813
+Begin MonoManager ReloadAssembly
+Platform assembly: E:\Jack\Documents\Uni Work\4th Year\Honours Project\NetworkLatencyCompensation\Honours-Project-Player-Test\Build_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading E:\Jack\Documents\Uni Work\4th Year\Honours Project\NetworkLatencyCompensation\Honours-Project-Player-Test\Build_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: E:\Jack\Documents\Uni Work\4th Year\Honours Project\NetworkLatencyCompensation\Honours-Project-Player-Test\Build_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading E:\Jack\Documents\Uni Work\4th Year\Honours Project\NetworkLatencyCompensation\Honours-Project-Player-Test\Build_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: E:\Jack\Documents\Uni Work\4th Year\Honours Project\NetworkLatencyCompensation\Honours-Project-Player-Test\Build_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading E:\Jack\Documents\Uni Work\4th Year\Honours Project\NetworkLatencyCompensation\Honours-Project-Player-Test\Build_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: E:\Jack\Documents\Uni Work\4th Year\Honours Project\NetworkLatencyCompensation\Honours-Project-Player-Test\Build_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading E:\Jack\Documents\Uni Work\4th Year\Honours Project\NetworkLatencyCompensation\Honours-Project-Player-Test\Build_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: E:\Jack\Documents\Uni Work\4th Year\Honours Project\NetworkLatencyCompensation\Honours-Project-Player-Test\Build_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading E:\Jack\Documents\Uni Work\4th Year\Honours Project\NetworkLatencyCompensation\Honours-Project-Player-Test\Build_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: E:\Jack\Documents\Uni Work\4th Year\Honours Project\NetworkLatencyCompensation\Honours-Project-Player-Test\Build_Data\Managed\TextMeshPro-5.6-1.0.56-Runtime.dll (this message is harmless)
+Loading E:\Jack\Documents\Uni Work\4th Year\Honours Project\NetworkLatencyCompensation\Honours-Project-Player-Test\Build_Data\Managed\TextMeshPro-5.6-1.0.56-Runtime.dll into Unity Child Domain
+- Completed reload, in  0.018 seconds
+Platform assembly: E:\Jack\Documents\Uni Work\4th Year\Honours Project\NetworkLatencyCompensation\Honours-Project-Player-Test\Build_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: E:\Jack\Documents\Uni Work\4th Year\Honours Project\NetworkLatencyCompensation\Honours-Project-Player-Test\Build_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 3840x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+Server initialized
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.864860 ms
+
+Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 738.
+Total: 0.528091 ms (FindLiveObjects: 0.036278 ms CreateObjectMapping: 0.034816 ms MarkObjects: 0.316562 ms  DeleteObjects: 0.139556 ms)
+
+<RI> Initialized touch support.
+UnloadTime: 0.999131 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 3d38 -> priority: 1 
+  Thread -> id: 4578 -> priority: 1 
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.581065 ms
+
+Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 738.
+Total: 0.500297 ms (FindLiveObjects: 0.035401 ms CreateObjectMapping: 0.023698 ms MarkObjects: 0.302518 ms  DeleteObjects: 0.138093 ms)
+
+View ID AllocatedID: 5 not found during lookup. Strange behaviour may occur
+ 
+(Filename:  Line: 1716)
+
+Couldn't perform remote Network.Destroy because the network view 'AllocatedID: 5' could not be located.
+ 
+(Filename:  Line: 2508)
+
+View ID AllocatedID: 5 not found during lookup. Strange behaviour may occur
+ 
+(Filename:  Line: 1716)
+
+Couldn't perform remote Network.Destroy because the network view 'AllocatedID: 5' could not be located.
+ 
+(Filename:  Line: 2508)
+
