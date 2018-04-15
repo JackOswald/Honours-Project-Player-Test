@@ -2,11 +2,12 @@ Instructions for setup:
 
 1) Dowload and unzip the file
 
-2) Retrieve your local IP by: 1) Click Start button and search for "Run"
-							  2) Type in 'cmd' in the run sea
-							  3) Type 'ipconfig' in the cmd window
-							  4) Look for an IPv4 address which should be located in your WIFI Lan Adapter section
-							  5) Note this IP Address down, you will need it multiple times
+2) Retrieve your local IP by: 
+		1) Click Start button and search for "Run"
+		2) Type in 'cmd' in the run sea
+		3) Type 'ipconfig' in the cmd window
+		4) Look for an IPv4 address which should be located in your WIFI Lan Adapter section
+		5) Note this IP Address down, you will need it multiple times
 							  
 3) Inside of your folder, open up two versions of Build in a screen resolution of 1280 x 720 and click the windowed option
 
