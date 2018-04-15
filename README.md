@@ -4,7 +4,7 @@ Instructions for setup:
 
 2) Retrieve your local IP by: 
 
-		1) Click Start button and search for "Run"
+		1) Click Start button on Windows and search for "Run"
 		2) Type in 'cmd' in the run sea
 		3) Type 'ipconfig' in the cmd window
 		4) Look for an IPv4 address which should be located in your WIFI Lan Adapter section
