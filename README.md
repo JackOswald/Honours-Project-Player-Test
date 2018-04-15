@@ -20,6 +20,8 @@ Instructions for setup:
 
 7) Enter your IP into the text box and click Join Server, you should now be able to move and shoot the enemies
 
-8) Exit the game once you are finished with it and answer the questionnaire at : https://docs.google.com/forms/d/1Pw5u5z_cg-bLaSERSyOLgf06OhJYlj3mp2MwnZbHD9E/ 				  
+8) Exit the game once you are finished with it and fully close down both version of the build 
 
-9) Complete steps 4-8 for all 3 levels 
+9) Answer the questionnaire at : https://docs.google.com/forms/d/1Pw5u5z_cg-bLaSERSyOLgf06OhJYlj3mp2MwnZbHD9E/ 				  
+
+10) Complete steps 4-9 for all 3 levels 
