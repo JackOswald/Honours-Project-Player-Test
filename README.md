@@ -3,6 +3,7 @@ Instructions for setup:
 1) Dowload and unzip the file
 
 2) Retrieve your local IP by: 
+
 		1) Click Start button and search for "Run"
 		2) Type in 'cmd' in the run sea
 		3) Type 'ipconfig' in the cmd window
